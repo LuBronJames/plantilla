@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=DM+Sans:400,700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Space+Mono:700&display=swap');
 
-/* 
+/*
 
 Así se escriben los comentario en CSS.
 Siempre se abren con slash asterisco, y
@@ -54,7 +54,7 @@ h3{
 }
 
 h5, h6{
-    font-weight:700;     
+    font-weight:700;
 }
 
 a{
@@ -85,13 +85,19 @@ video{
     height:auto;
 }
 
+img{
+    width:98%;
+    padding:1% 1% .75% 1%;
+    height:auto;
+}
+
 main{
     width:100%;
 }
 
-/* 
-Puedes revisar detalles sobre el siguiente uso de flex 
-en https://www.taniarascia.com/easiest-flex-grid-ever/ 
+/*
+Puedes revisar detalles sobre el siguiente uso de flex
+en https://www.taniarascia.com/easiest-flex-grid-ever/
 */
 
 #equipo {
@@ -159,7 +165,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 .integrante:nth-of-type(1){
     background-color:#F83277;
-    background-image:url('media/integrante-1a.png');
+    background-image:url('media/fran.jpg');
     background-position: bottom right;
     background-size:auto 90%;
     background-repeat: no-repeat;
@@ -168,7 +174,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 .integrante:nth-of-type(2){
     background:#F93332;
-    background-image:url('media/integrante-2a.png');
+    background-image:url('media/tom.jpg');
     background-position: bottom right;
     background-size:auto 90%;
     background-repeat: no-repeat;
@@ -176,7 +182,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 .integrante:nth-of-type(3){
     background:#FA7633;
-    background-image:url('media/integrante-3a.png');
+    background-image:url('media/lu.jpg');
     background-position: bottom right;
     background-size:auto 90%;
     background-repeat: no-repeat;
@@ -184,7 +190,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 .integrante:nth-of-type(1):hover{
     background-color:#c2185b;
-    background-image:url('media/integrante-1b.png');
+    background-image:url('media/fran.jpg');
     background-position: bottom right;
     background-size:auto 90%;
     background-repeat: no-repeat;
@@ -192,7 +198,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 .integrante:nth-of-type(2):hover{
     background:#d32f2f;
-    background-image:url('media/integrante-2b.png');
+    background-image:url('media/tom.jpg');
     background-position: bottom right;
     background-size:auto 90%;
     background-repeat: no-repeat;
@@ -200,7 +206,7 @@ en https://www.taniarascia.com/easiest-flex-grid-ever/
 
 .integrante:nth-of-type(3):hover{
     background:#ef6c00;
-    background-image:url('media/integrante-3b.png');
+    background-image:url('media/lu.jpg');
     background-position: bottom right;
     background-size:auto 90%;
     background-repeat: no-repeat;

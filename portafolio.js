@@ -1,35 +1,35 @@
 var trabajos = [{
-    figure: "P1.png",
+    figure: "Media/P1.png",
     alt: "Descripción de la imagen",
     title: "Wako",
     about: "Proyecto de emergencia textil para Taller: Producto, 2018"
 }, {
-    figure: "P2.png",
+    figure: "Media/P2.png",
     alt: "Descripción de la imagen",
     title: "La Tribu",
     about: "Juego de mesa para fines investigativos para Taller: Producto, 2018"
 }, {
-    figure: "P3.png",
+    figure: "Media/P3.png",
     alt: "Descripción de la imagen",
     title: "Móviles de Magia y Cartón: Rola el auto",
     about: "Nueva línea de juguetes de medios de transporte para el trabajo con un emprendimiento. TIDE, 2019"
 }, {
-    figure: "P4.png",
+    figure: "Media/P4.png",
     alt: "Descripción de la imagen",
     title: "Tanin",
     about: "Producto alimenticio a base de mate creado para la feria gastronómica en Taller: Producto, 2018"
 }, {
-    figure: "P5.png",
+    figure: "Media/P5.png",
     alt: "Descripción de la imagen",
     title: "Esplat",
     about: "Prensador de alimentos para Ilko. TIDE, 2019"
 }, {
-    figure: "P6.png",
+    figure: "Media/P6.png",
     alt: "Descripción de la imagen",
     title: "Hotel Papiofornia",
     about: "Dispositivo de enriquecimiento ambiental para papiones. Taller: Identidad, 2017"
 }, {
-    figure: "P9.png",
+    figure: "Media/P9.png",
     alt: "Descripción de la imagen",
     title: "Alcor",
     about: "Exhibidor de vinos. Taller: Calidad II, 2019"
